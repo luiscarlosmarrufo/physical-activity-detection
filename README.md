@@ -11,7 +11,7 @@ The system was developed in four stages:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 PHYSICAL-ACTIVITY-DETECTION/
@@ -40,7 +40,7 @@ PHYSICAL-ACTIVITY-DETECTION/
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 ```bash
 git clone <repo-url>
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Workflow
+## Workflow
 
 ### 1. Data Collection
 
@@ -99,7 +99,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Results
+## Results
 
 * **96% accuracy** with optimized linear SVM.
 * Feature space reduced from **55 → 10** with no performance degradation.
@@ -107,7 +107,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🛠 Dependencies
+## Dependencies
 
 * `numpy`, `pandas`, `scikit-learn` (SVM, GridSearchCV, RFE)
 * `scipy`, `matplotlib`, `seaborn`
